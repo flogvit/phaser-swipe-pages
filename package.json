@@ -1,0 +1,24 @@
+{
+  "name": "phaser-swipe-pages",
+  "version": "1.0.0",
+  "description": "Component for creting Phaser state with pages",
+  "main": "phaser-swipe-pages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flogvit/phaser-swipe-pages.git"
+  },
+  "keywords": [
+    "Phaser",
+    "swipe",
+    "pages"
+  ],
+  "author": "Vegard.Hanssen@cellarlabs.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flogvit/phaser-swipe-pages/issues"
+  },
+  "homepage": "https://github.com/flogvit/phaser-swipe-pages#readme"
+}
