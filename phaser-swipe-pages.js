@@ -47,7 +47,7 @@ SwipePages.prototype = {
     if (page < 1) return;
     if (page > this.pageMax)  return;
 
-    obj.position.x = obj.position.x + ((screen - 1) * this.game.width);
+    obj.position.x = obj.position.x + ((page - 1) * this.game.width);
   },
 
   goNextPage: function () {
